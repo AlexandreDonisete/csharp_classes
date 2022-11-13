@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tarefa_T1_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double baseTriangulo, alturaTriangulo, areaTriangulo;
+            Console.WriteLine("Digite a base do triângulo");
+            baseTriangulo = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a altura do triângulo");
+            alturaTriangulo = double.Parse(Console.ReadLine());
+            areaTriangulo = (baseTriangulo * alturaTriangulo) / 2;
+            Console.WriteLine("A área do triangulo é igual a: " + areaTriangulo);
+            Console.ReadKey();
+        }
+    }
+}
