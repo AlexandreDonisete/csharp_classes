@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\bin\Debug\Tarefa_05_04.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\bin\Debug\Tarefa_05_04.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\bin\Debug\Tarefa_05_04.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\obj\Debug\Tarefa_05_04.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\obj\Debug\Tarefa_05_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\obj\Debug\Tarefa_05_04.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\obj\Debug\Tarefa_05_04.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Faculdade\C#\Tarefa_05\Tarefa_05_04\obj\Debug\Tarefa_05_04.pdb
