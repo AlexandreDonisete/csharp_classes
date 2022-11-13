@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\obj\Debug\ExercicioArray.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\obj\Debug\ExercicioArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\obj\Debug\ExercicioArray.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
